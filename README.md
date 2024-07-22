@@ -1,2 +1,2 @@
 # repo-exercise
-lab assignment of oursera
+lab assignment of Coursera
